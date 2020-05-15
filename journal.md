@@ -7,7 +7,9 @@ Written by: ME !
 This is a very important problem that I have been working on.
 
 HHa
+## Goals
 
+Generally, my goal is that... Specifickly, I have three goals:
 ## References
 
 Smith, J (2020).
