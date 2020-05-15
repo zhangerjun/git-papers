@@ -1,3 +1,6 @@
+
+This is to test branch.
+
 This is to test how to skip git add.
 
 THis is to test git commit -a
